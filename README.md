@@ -1,1 +1,1 @@
-# Example project of google desisgn from 1998
+# Example project of google design from 1998
