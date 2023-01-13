@@ -1,0 +1,57 @@
+#searchbar {
+    width: 285px;
+    height: 15px;
+    padding: 1px 2px;
+    border: 1px solid rgb(118, 118, 118);
+    border-radius: 2px;
+
+}
+
+.logo img {
+    display: block;
+    margin: auto;
+}
+
+.wrapper {
+    text-align: center;
+    display: block;
+    margin: auto;
+    width: 90%;
+
+}
+
+.search-form {
+    background-color: #EEEEEE;
+
+}
+
+
+
+footer p {
+    text-align: center;
+}
+
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+
+.search-indicators table {
+    width: 100%;
+}
+
+.search-indicators table tr td:nth-of-type(1) {
+    width: 37%;
+    text-align: center;
+    background-color: rgb(126, 229, 218);
+}
+
+.search-indicators table tr td:nth-of-type(2) {
+    text-align: center;
+    background-color: rgb(112, 204, 194);
+}
+
+.search-indicators table tr td:nth-of-type(3) {
+    text-align: center;
+    background-color: rgb(98, 179, 170);
+}
